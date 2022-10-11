@@ -1,4 +1,4 @@
-# Suresh-Mohan
+# NxtWave Assessment
 Take-home Assignment
 Assume you are a Data Analyst in an EdTech company. Your company is focused on accelerating its growth by increasing the number of enrolled users.
 
